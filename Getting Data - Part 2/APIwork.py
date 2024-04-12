@@ -25,4 +25,4 @@ def get_data(base_url: str, api_key: str, info_id: str):
 
 
 
-"https://phl.carto.com/api/v2/sql?q=SELECT * FROM incidents_part1_part2 WHERE dispatch_date_time >= '2019-01-01'")
+#"https://phl.carto.com/api/v2/sql?q=SELECT * FROM incidents_part1_part2 WHERE dispatch_date_time >= '2019-01-01'")
